@@ -1,0 +1,10 @@
+spacy==3.8.0
+pandas
+numpy
+streamlit
+docx2txt
+pdfplumber
+gspread
+oauth2client
+openpyxl
+scikit-learn
